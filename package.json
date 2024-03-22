@@ -28,7 +28,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://wjdaudrb7410.github.io/weather_app_24_03_06/#/",
+  "homepage": "https://wjdaudrb7410.github.io/movi_app/#/",
   "eslintConfig": {
     "extends": [
       "react-app",
